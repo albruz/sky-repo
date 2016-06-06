@@ -1,2 +1,5 @@
 ripasso codecommit git di amazon aws
+non è vero , mi sono proprio sbagliato. 
+Questo non è il repository di aws codecommit ma quello di github.
+Ora provo a vedere se l'agent ssh funziona correttamente.
 
